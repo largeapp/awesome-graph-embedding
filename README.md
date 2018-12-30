@@ -1,6 +1,4 @@
-# Awesome Graph Embedding
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Graph Embedding
 
 A collection of graph embedding, deep learning, graph kernel and factorization papers with reference implementations.
 
@@ -15,7 +13,8 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 1. [Factorization](#factorization)  
 2. [Spectral and Statistical Fingerprints](#spectral-and-statistical-fingerprints)
 3. [Deep Learning](#deep-learning)  
-4. [Graph Kernels](#graph-kernels)  
+4. [Graph Kernels](#graph-kernels)
+5. [Papers in Chinese](#papers-in-chinese)
 
 # Paper References with the implementation(s)
 ## Factorization
@@ -281,3 +280,30 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - Kashima, Hisashi and Tsuda, Koji and Inokuchi, Akihiro
   - [[Paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  
+  ## Papers in Chinese
+  - **图计算在阿里巴巴的应用与挑战** 
+   - 钱正平, 周靖人, 2018.
+  
+  - **网络表示学习**
+   - 陈维政, 张岩, 李晓明, 2015.
+   
+  - **网络表示学习综述**
+   - 涂存超, 杨成, 刘知远, 孙茂松, 2017.
+   
+ #### 网络表征学习前沿与实践, 2018#### 
+   
+  - **属性网络表征学习的研究与发展**
+   - 胡侠, 黄啸, 杨红霞, 2018.
+   
+  - **异质网络表征学习的研究进展**
+   - 石川, 孙怡舟, 2018.
+ 
+   - **网络表征学习在微信平台的应用**
+   - 孙仕杰, 易玲玲, 2018.
+   
+  - **全图表征学习的研究进展**
+   - 唐建, 2018.
+   
+  - **网络表征学习中的基本问题初探**
+   - 王啸, 崔鹏, 朱文武, 2018.
