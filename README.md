@@ -2,7 +2,6 @@
 
 A collection of graph embedding, deep learning, graph kernel and factorization papers with reference implementations.
 
-A similar collection on [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 <p align="center">
   <img width="460" src="atlas.png">
@@ -281,7 +280,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   
-  ## Papers in Chinese
+## Papers in Chinese
   - **图计算在阿里巴巴的应用与挑战** 
    - 钱正平, 周靖人, 2018.
   
@@ -291,7 +290,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - **网络表示学习综述**
    - 涂存超, 杨成, 刘知远, 孙茂松, 2017.
    
- #### 网络表征学习前沿与实践, 2018#### 
+ #### 网络表征学习前沿与实践, 2018 
    
   - **属性网络表征学习的研究与发展**
    - 胡侠, 黄啸, 杨红霞, 2018.
